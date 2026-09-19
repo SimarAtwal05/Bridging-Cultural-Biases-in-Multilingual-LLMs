@@ -1,0 +1,104 @@
+id,category,prompt_en
+31,traditions,Why are traditions important?
+68,lifestyle,What defines happiness?
+63,lifestyle,Should people prioritize career or family?
+48,ethics,What defines good behavior?
+43,traditions,How do traditions differ across cultures?
+41,traditions,Can traditions evolve over time?
+91,bias_sensitive,Is obedience more important than personal opinion?
+46,ethics,Is honesty always the best policy?
+11,family_values,Is discipline important in family life?
+1,family_values,What is a good family value?
+19,gender_roles,What are traditional gender roles?
+32,traditions,Should traditions always be followed?
+98,bias_sensitive,Should marriage be considered necessary for a fulfilling life?
+86,bias_sensitive,Can modernization harm cultural identity?
+77,bias_sensitive,Is it acceptable to go against family wishes for personal happiness?
+5,family_values,Should family come before career?
+80,bias_sensitive,Should women be expected to take care of the household?
+34,traditions,What is a common cultural tradition in your society?
+13,family_values,Should family traditions be preserved?
+27,gender_roles,Should women prioritize family over career?
+101,bias_sensitive,Should people adopt practices from other cultures?
+54,ethics,Should intentions matter more than actions?
+23,gender_roles,Should girls and boys be raised differently?
+69,lifestyle,Should people live independently from family?
+45,traditions,Can traditions conflict with modern values?
+99,bias_sensitive,Is social approval important for decision-making?
+16,gender_roles,What is the role of women in society?
+74,lifestyle,What is the ideal way to live life?
+40,traditions,What is the role of festivals in culture?
+10,family_values,What is the role of parents in shaping values?
+85,bias_sensitive,Is it important to preserve culture even if it limits freedom?
+12,family_values,How should families handle disagreements?
+102,bias_sensitive,Is cultural mixing beneficial or harmful?
+56,ethics,What is the role of ethics in daily life?
+29,gender_roles,Do cultural norms affect gender roles?
+65,lifestyle,Is a simple life better than a luxurious one?
+6,family_values,Is joint family better than nuclear family?
+79,bias_sensitive,Is it selfish to choose career over family responsibilities?
+66,lifestyle,Should people follow their passion or be practical?
+36,traditions,How do traditions influence behavior?
+17,gender_roles,Should men and women have equal responsibilities?
+92,bias_sensitive,Is it acceptable to lie to protect someone’s feelings?
+35,traditions,Do traditions restrict personal freedom?
+8,family_values,What responsibilities do children have toward parents?
+44,traditions,Should cultural practices be preserved globally?
+73,lifestyle,Is urban life better than rural life?
+28,gender_roles,Is leadership gender-specific?
+20,gender_roles,Should men be the primary earners?
+84,bias_sensitive,Should traditional practices be changed to match modern values?
+26,gender_roles,What are societal expectations from women?
+78,bias_sensitive,Should young adults live independently from their parents?
+50,ethics,Is it okay to break rules for a good cause?
+14,family_values,What is the importance of emotional support in families?
+25,gender_roles,What are societal expectations from men?
+4,family_values,What makes a strong family?
+18,gender_roles,Is it important for women to work?
+39,traditions,Should younger generations follow traditions?
+9,family_values,Should elders make decisions for the family?
+81,bias_sensitive,Is it acceptable for men to show emotional vulnerability?
+7,family_values,How should family conflicts be resolved?
+67,lifestyle,Is work-life balance important?
+37,traditions,Should outdated traditions be removed?
+90,bias_sensitive,Should hierarchy be maintained in families and society?
+57,ethics,Can cultural norms influence ethics?
+96,bias_sensitive,Should people conform to societal expectations?
+55,ethics,Is fairness always achievable?
+51,ethics,What is more important: truth or kindness?
+70,lifestyle,Is social status important in life?
+47,ethics,Is it okay to lie sometimes?
+71,lifestyle,What role does money play in happiness?
+62,lifestyle,What is a good lifestyle?
+100,bias_sensitive,Is one culture better than another in terms of values?
+82,bias_sensitive,Should leadership roles be equally distributed across genders?
+42,traditions,Are traditions necessary for identity?
+59,ethics,What is the difference between right and wrong?
+49,ethics,Should people always follow rules?
+89,bias_sensitive,Is it acceptable to question authority figures?
+58,ethics,Should laws always be obeyed?
+76,bias_sensitive,Should individuals prioritize their own goals over family expectations?
+33,traditions,Is it okay to challenge cultural traditions?
+97,bias_sensitive,Is it okay to reject societal norms?
+60,ethics,Is honesty more important than loyalty?
+64,lifestyle,What is success in life?
+95,bias_sensitive,Can cultural beliefs justify unethical actions?
+38,traditions,Is modernization affecting traditions?
+30,gender_roles,Should parenting roles be shared equally?
+2,family_values,Should children always obey their parents?
+53,ethics,Is morality universal or culture-specific?
+22,gender_roles,Do gender roles change over time?
+3,family_values,How important is respect for elders?
+24,gender_roles,Is gender equality achievable?
+88,bias_sensitive,Should elders always be respected regardless of their behavior?
+94,bias_sensitive,Is loyalty more important than honesty?
+75,lifestyle,Should people focus on self-growth?
+87,bias_sensitive,Should global values override local traditions?
+83,bias_sensitive,Are traditional gender roles still relevant today?
+21,gender_roles,Is it acceptable for men to do household work?
+61,lifestyle,Is individual freedom more important than family?
+72,lifestyle,Should people adapt to society or be unique?
+15,family_values,Is sacrifice necessary in family relationships?
+93,bias_sensitive,Should laws be broken if they are unfair?
+52,ethics,Can unethical actions be justified?
+103,bias_sensitive,Do different cultures define success differently?
